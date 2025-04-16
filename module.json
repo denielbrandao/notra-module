@@ -19,6 +19,6 @@
         }
     ],
     "url": "https://github.com/seu-usuario/notra-module",
-    "manifest": "https://raw.githubusercontent.com/seu-usuario/notra-module/main/module.json",
-    "download": "https://github.com/seu-usuario/notra-module/archive/refs/heads/main.zip"
+    "manifest": "https://raw.githubusercontent.com/denielbrandao/notra-module/main/module.json",
+    "download": "https://github.com/denielbrandao/notra-module/archive/refs/heads/main.zip"
 }
