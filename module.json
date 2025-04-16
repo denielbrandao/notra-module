@@ -1,0 +1,24 @@
+{
+    "name": "notra-module",
+    "title": "Módulo de Notra (PT-BR)",
+    "description": "Conteúdo traduzido dos livros e suplementos para a campanha de Notra no Foundry VTT.",
+    "version": "1.0.0",
+    "minimumCoreVersion": "10",
+    "compatibleCoreVersion": "12",
+    "author": "Njor Hound",
+    "esmodules": [],
+    "styles": [],
+    "scripts": [],
+    "packs": [
+        {
+            "name": "magias",
+            "label": "Magias (PT-BR)",
+            "system": "dnd5e",
+            "path": "packs/magias.db",
+            "type": "Item"
+        }
+    ],
+    "url": "https://github.com/seu-usuario/notra-module",
+    "manifest": "https://raw.githubusercontent.com/seu-usuario/notra-module/main/module.json",
+    "download": "https://github.com/seu-usuario/notra-module/archive/refs/heads/main.zip"
+}
